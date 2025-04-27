@@ -51,5 +51,5 @@ npm run dev
 OUTPUT:
 ![image](https://github.com/user-attachments/assets/2fb1f4a4-0dcb-4758-8d19-919f9e85d91c)
 ![image](https://github.com/user-attachments/assets/daf6178a-1859-4b32-86d8-eb384fdd7af7)
-![image](https://github.com/user-attachments/assets/9d0bbaee-fb6c-43f3-aa91-e29274fffa6f)
+
 
